@@ -1,0 +1,49 @@
+.img1{
+    max-height: 550px; 
+}
+.para1{
+    font-weight: 600;
+    font-size: larger;
+    
+}
+.footer{
+    background-color: black;
+    height: 200px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.head{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.footer2
+{
+    border-top: 2px solid grey;
+    margin-top: -14px;
+    background-color: black;
+    height: 25px;
+    color: white;
+    text-align: center;
+}
+.nav1{
+    text-align: center;
+    border-top: 5px solid grey;
+    border-bottom: 5px solid grey;
+}
+.logo{
+    height: 100px;
+}
+span{
+    color: orange;
+}
+.maindiv{
+    top: 0;
+    position: sticky;
+    z-index: 5;
+    width: 100%;
+}
